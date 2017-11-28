@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\infographie\projetfinal\projetfinal\main.cpp(50): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+f:\infographie\projetfinal\projetfinal\main.cpp(268): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+f:\infographie\projetfinal\projetfinal\main.cpp(270): warning C4305: '+=' : troncation de 'double' à 'float'
+  ProjetFinal.vcxproj -> F:\Infographie\ProjetFinal\Debug\ProjetFinal.exe
+  ProjetFinal.vcxproj -> F:\Infographie\ProjetFinal\Debug\ProjetFinal.pdb (Partial PDB)
